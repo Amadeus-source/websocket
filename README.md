@@ -9,8 +9,12 @@ Gorilla WebSocket is a [Go](http://golang.org/) implementation of the
 ---
 
 **The Gorilla project has been archived, and is no longer under active maintainenance. You can read more here: https://github.com/gorilla#gorilla-toolkit**
-This fork is for personal use
+
 ---
+
+### Disclaimer
+
+This fork is for personal use 
 
 ### Documentation
 
